@@ -1,93 +1,46 @@
 ---
-title: "Introducing Gatsby Material Starter"
-cover: "/logos/logo-1024.png"
-category: "gatsby"
+title: "Top 3 free cryptocurrency monitoring sites"
+category: "Blockchain"
 tags:
-
-    - gatsby
-    - material
-    - starter
-
-date: "18/07/2017"
+  - crypto tips
+  - blockchain
+  - crypto tools
+cover: "https://i2.wp.com/usethebitcoin.com/wp-content/uploads/2017/04/bitcoin2.png?resize=800%2C500&ssl=1"
+date: "16/04/2018"
 ---
 
-Not so long ago, this project got ported to v1 version of GatsbyJS.
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great news! Gatsby Material starter is now based on stable V1 of <a href="https://twitter.com/gatsbyjs">@gatsbyjs</a>!<a href="https://t.co/P2JqNbcRmk">https://t.co/P2JqNbcRmk</a></p>&mdash; Ruben Harutyunyan (@Vagr9K) <a href="https://twitter.com/Vagr9K/status/883073085963993089">July 6, 2017</a></blockquote>
+# Top 3 free cryptocurrency monitoring sites
 
-And now, it's super exciting for me to announce the `v1.1` version of `Gatsby Material Starter`!
+There are literally dosens of great tools for monitoring prices of the cryptocurrencies. But what are the most convinient ones. Today we'll take a look at 3 of the very best sites for monitoring the value change of the cryptocurrencies. The list is based solely on my opinion. If you know better alternatives - be sure to mention them in the comments. Let's dive right into it.
 
-You can also visit [my personal blog](https://vagr9k.me) if you want to see a fully implemented blog based on this starter.
+## 1. CoinMarketCap
 
-New features are:
+CoinMarketcap is possibly the first thing that comes to your mind. The site lets you see the prices of many cryptocurrencies on different exchanges in the real time. Many people use it as their go-to resourse for looking up coin/token values and the general market landscape. This resourse has been running for a really long time (since april 2013).
 
-* Suggested posts segment
-* Development tools
-  * ESLint for linting
-  * Prettier for code style
-  * Remark-Lint for linting Markdown
-  * write-good for linting English prose
-  * gh-pages for deploying to GitHub pages
-  * CodeClimate configuration file and badge
+The main page shows you top 100 cryptocurrencies, their market capitalization, current price, volume for the last 24 hours, circulating supply and also you can see the percentage change for the last 24 hours and the graph visualising the change for the last 7 days. By default they are sorted by their market capitalization, but you can use other parameters by clicking on these parameters.
 
-Full feature list:
+You can see the total number of cryptocurrencies being monitored at the moment and the total amount of markets on which these currencies are being traded. Next, you can see the total market capitalization, total volume for the last 24 hours and bitcoin dominance - % of bitcoin market cap compared to total cryptocurrencies market cap. Furthermore you can choose your language from 13 options and choose your national currency or the one you want to be used in comparison.
 
-* Blazing fast loading times thanks to pre-rendered HTML and automatic chunk loading of JS files
-* [React-MD](https://github.com/mlaursen/react-md) for Material design
-  * Integrated FontAwesome support
-  * Integrated Material Icons support
-* SASS/SCSS styling
-* Separate components for everything
-* High configurability:
-  * User information
-  * User social profiles
-  * Copyright information
-  * More!
-* Author segment
-  * Name
-  * Location
-  * Description
-  * Links
-  * Follow Me button
-* Posts in Markdown
-  * Code syntax highlighting
-  * Embedded YouTube videos
-  * Embedded Tweets
-* Tags
-  * Seprate page for posts under each tag
-* Categories
-  * Separate page for posts under each category
-* Suggested posts segment
-* Disqus support
-  * Notifications about new disqus comments
-* Google Analytics support
-* Responsive design
-  * On mobile, Disqus is loaded only after expanding comments for better performance
-* Social features
-  * Twitter tweet button
-  * Facebook share/share count
-  * Reddit share/share count
-  * Google+ share button
-  * LinkedIn share button
-  * Telegram share button
-* SEO
-  * Sitemap generation
-  * robots.txt
-  * General description tags
-  * Schema.org JSONLD (Google Rich Snippets)
-  * OpenGraph Tags (Facebook/Google+/Pinterest)
-  * Twitter Tags (Twitter Cards)
-* RSS feeds
-* Loading progress for slow networks
-* Offline support
-* Web App Manifest support
-* Development tools
-  * ESLint for linting
-  * Prettier for code style
-  * Remark-Lint for linting Markdown
-  * write-good for linting English prose
-  * gh-pages for deploying to GitHub pages
-  * CodeClimate configuration file and badge
+There are many other great tools you can leverage on coinmarketcap. The most useful ones in my opinion are options to look up the "Gainers and Loosers" - the assets with the most and the least percentage gains and "Recently Added" - coins/tokens listed on coinmarketcap less than a month ago. These can be really useful for deciding on your future investments depending on the coins/tokens potential.
 
-NOTE: Take a look at [gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) if you prefer building UI from scratch and/or only interested in fundamental features.
+## 2. CoinCodex
 
-More information is available on [GitHub repository page](https://github.com/Vagr9K/gatsby-material-starter).
+Coincodex.com is a cryptocurrency listings website that keeps you up to date with over 1500 coins found on 100 major exchanges. The site is the brainchild of an ambitious and innovative team headed by co-founder David Cernuta. It plans to take on and outdo some of the more established heavyweights in the world of cryptocurrency listings, such as CoinMarketCap.
+
+Cernuta sees innovation as being key to success and the CoinCodex interface utilizes an intuitive and interactive approach that allows you to seamlessly monitor your cryptocurrency investments and favorite coins. The website helps you to track Bitcoin, Ethereum and many other cryptocurrencies across a range of different devices with the modern design and implementation perfectly suited to computers, tablets, and mobile phones.
+
+The site provides real-time cryptocurrency prices and gives a comprehensive overview of each coin, including a full description, market cap, and historical charts that detail both price and volume.
+
+Coins are listed on the homepage based on market capitalization and the site hosts a full range of sorting options including price, 24-hour volume, price changes, and supply. There is also an option to track coins by adding them to a watchlist from the homepage and this allows users to follow the coins that most interest them more efficiently. The site also includes information on ICOs and tracks ICO token prices, release dates, and ROI.
+
+CoinCodex represents a great mix of concise, up to date cryptocurrency information and a modern intuitive layout that includes features such as a mobile design, clean and sharp interactive graphs and a sleek dashboard. The site provides users with a comprehensive option for both charting and keeping updated with the industry’s most important cryptocurrencies.
+
+## 3. WorldCoinIndex
+
+WorldCoinIndex is also a great alternative for the CoinMarketCap as it has some extra functionality that CoinMarketCap can not provide to their users. First and foremost, you have an option to authorise on the site and you'll then have an option to create your cryptocurrency portfolio and watch it grow (or shrink) on the website. This is super useful for most of us.
+
+WorldCoinIndex’s main mission is to simplify the process of picking the right exchange at the right time. The platform has gradually expanded its list of cryptocurrency information offering by adding new tradable cryptocurrencies and functionalities on a regular basis. As for the index formula WorldCoinIndex use an average weighted price of all cryptocurrencies across all the supported exchanges.
+
+With the increasing maturity of blockchain technology and the growth of the cryptocurrency market, WorldCoinIndex is also improving cryptocurrency market data. The recent upgrades allow WorldCoinIndex to deliver real-time live stream price information. Processing real-time quotes are important for the cryptocurrency market, that is finally catching up to the standards of fiat stock and fx markets.
+
+For traders, real-time quotes can make a difference as even the smallest time discrepancy between a provided quote and the real-time situation can change a profitable trade into a loss. Real-time data improves their ability to react quickly and enhance investment returns, making WorldCoinIndex the most powerful cryptocurrency index tool on the market.
