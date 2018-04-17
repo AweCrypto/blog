@@ -4,7 +4,7 @@ module.exports = {
   siteTitleAlt: "Awe Crypto", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
   siteUrl: "https://awecrypto.com", // Domain of your website without pathPrefix.
-  fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
+  fixedFooter: true, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "Channel about cryptocurrency and blockchain latest news, token and ICO reviews and the general blockchain technology landscape overview!", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteGATrackingID: "UA-113486667-1", // Tracking code ID for google analytics.
